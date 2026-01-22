@@ -1,0 +1,36 @@
+H1 {
+  text-align: center;
+}
+
+body {
+  background-color: #ffffff;
+  width: 90vw;
+  margin: 0;
+  padding: 20px;
+}
+
+.blog-display1 {
+  width: 100%;
+  padding: 190px;
+  line-height: 1.6;
+  height: auto;
+}
+
+#blog-display2 {
+  background-color: #dbeaff;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+
+}
+
+#blog-container {
+  padding: 30px;
+  line-height: 1.6;
+}
+#author {
+  text-align: right;
+  font-weight: bold;
+  margin-top: 20px;
+  display: block;
+  width: 100%;
+}
